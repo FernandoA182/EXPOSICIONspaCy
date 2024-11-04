@@ -30,7 +30,8 @@ Esposición sobre spaCy  de la clase de Desarrollo de Proyecto I de MCD
 La estructura que tiene nuestro repositorio es la siguiente:
 
     ├── src                             <- Carpeta de archivos de código.    
-    |    |── EXPOspaCy.ipynb            <- Archivo notebook de código (Análisis EDA).
+    |    |── EXPOspaCy.ipynb            <- Archivo notebook de código necesario para la práctica de la exposición de la clase.
+    |    |── spaCY-v2.pdf               <- Archivo pdf copia de la presentación.
     |    └── README.md                  <- Descripción general del contenido del notebook.
     |  
     ├── CITATION.md                     <- Información sobre como citar este trabajo.  
